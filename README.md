@@ -32,7 +32,7 @@ It contains a Colab notebook that reproduces the experiments described in the ar
 
 Read the full story – **When Random Meets Regs: AI Agents in the Real World** – on LinkedIn:
 
-➡️ **[When Random Meets Regs: AI Agents in the Real World](the link)**
+➡️ **[When Random Meets Regs: AI Agents in the Real World](https://www.linkedin.com/pulse/when-random-meets-regs-ai-agents-real-world-yuriy-yuzifovich-mcjsc/)**
 
 ---
 
